@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to top left, #0a1f44, #4b0082, #0a4b4d) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: unset !important;
+}
+
+p {
+    font-size: 2rem !important;
+}
